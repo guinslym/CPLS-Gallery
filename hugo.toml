@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CPLS Capital Parking Lot Line Painting - Photo Gallery'
 theme = 'gallery'
 [module]
   [[module.imports]]
