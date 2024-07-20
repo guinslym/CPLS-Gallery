@@ -5,6 +5,7 @@ theme = 'gallery'
 [module]
   [[module.imports]]
     path = "gallery"
+[module]
   [[module.mounts]]
     source = "assets"
     target = "assets"
