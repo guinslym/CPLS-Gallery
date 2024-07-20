@@ -1,7 +1,7 @@
 ---
 description: Our projects
 #lastmod: 2023-07-05
-title: Capital Parking Lot Lines - Photo Gallery #toronto #ottawa #hamilton #barrie
+title: Capital Parking Lot Lines Painting- Photo Gallery #toronto #ottawa #hamilton #barrie
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
