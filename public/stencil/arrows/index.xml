@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arrows on CPLS Capital Parking Lot Line Painting - Photo Gallery</title>
-    <link>https://example.org/stencil/arrows/</link>
+    <link>http://gallery.parkinglotlines.xyz/stencil/arrows/</link>
     <description>Recent content in Arrows on CPLS Capital Parking Lot Line Painting - Photo Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/stencil/arrows/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://gallery.parkinglotlines.xyz/stencil/arrows/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

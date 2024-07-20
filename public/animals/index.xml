@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on CPLS Capital Parking Lot Line Painting - Photo Gallery</title>
-    <link>https://example.org/animals/</link>
+    <link>http://gallery.parkinglotlines.xyz/animals/</link>
     <description>Recent content in Animals on CPLS Capital Parking Lot Line Painting - Photo Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/animals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://gallery.parkinglotlines.xyz/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cats</title>
-      <link>https://example.org/animals/cats/</link>
+      <link>http://gallery.parkinglotlines.xyz/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/animals/cats/</guid><media:content url="https://example.org/animals/cats/20240211_103258_hufd21b6a5fff82d87e021587e484ddb60_2262460_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://gallery.parkinglotlines.xyz/animals/cats/</guid><media:content url="http://gallery.parkinglotlines.xyz/animals/cats/20240211_103258_hufd21b6a5fff82d87e021587e484ddb60_2262460_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/animals/cats/20240211_103258_hufd21b6a5fff82d87e021587e484ddb60_2262460_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://gallery.parkinglotlines.xyz/animals/cats/20240211_103258_hufd21b6a5fff82d87e021587e484ddb60_2262460_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Dogs</title>
-      <link>https://example.org/animals/dogs/</link>
+      <link>http://gallery.parkinglotlines.xyz/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/animals/dogs/</guid><media:content url="https://example.org/animals/dogs/alexander-london-mJaD10XeD7w-unsplash_hub03613c1802ad01c0b806c76bc8e5034_21441_9629cc31709c568087538d8684e38497.jpg" type="image/jpeg"/>
+      <guid>http://gallery.parkinglotlines.xyz/animals/dogs/</guid><media:content url="http://gallery.parkinglotlines.xyz/animals/dogs/alexander-london-mJaD10XeD7w-unsplash_hub03613c1802ad01c0b806c76bc8e5034_21441_9629cc31709c568087538d8684e38497.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/animals/dogs/alexander-london-mJaD10XeD7w-unsplash_hub03613c1802ad01c0b806c76bc8e5034_21441_9629cc31709c568087538d8684e38497.jpg&quot; /&gt;
+          &lt;img src=&quot;http://gallery.parkinglotlines.xyz/animals/dogs/alexander-london-mJaD10XeD7w-unsplash_hub03613c1802ad01c0b806c76bc8e5034_21441_9629cc31709c568087538d8684e38497.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

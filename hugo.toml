@@ -1,11 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://gallery.parkinglotlines.xyz/'
 languageCode = 'en-us'
 title = 'CPLS Capital Parking Lot Line Painting - Photo Gallery'
 theme = 'gallery'
 [module]
   [[module.imports]]
     path = "gallery"
-[module]
   [[module.mounts]]
     source = "assets"
     target = "assets"
