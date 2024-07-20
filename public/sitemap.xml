@@ -2,18 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gallery.parkinglotlines.xyz/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://gallery.parkinglotlines.xyz/stencil/appartments/</loc>
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/stencil/arrows/</loc>
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/stencil/blackout/</loc>
-  </url><url>
-    <loc>http://gallery.parkinglotlines.xyz/chalkline/</loc>
-  </url><url>
-    <loc>http://gallery.parkinglotlines.xyz/court/</loc>
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/curbing/</loc>
   </url><url>
@@ -31,16 +24,15 @@
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/fashion-beauty/</loc>
   </url><url>
-    <loc>http://gallery.parkinglotlines.xyz/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>http://gallery.parkinglotlines.xyz/court/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gallery.parkinglotlines.xyz/animals/cats/</loc>
+    <loc>http://gallery.parkinglotlines.xyz/chalklines/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://gallery.parkinglotlines.xyz/animals/dogs/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/about/</loc>
+  </url><url>
+    <loc>http://gallery.parkinglotlines.xyz/</loc>
   </url><url>
     <loc>http://gallery.parkinglotlines.xyz/categories/</loc>
   </url><url>
