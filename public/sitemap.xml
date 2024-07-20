@@ -2,21 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://example.org/stencil/appartments/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/arrows/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/blackout/</loc>
+  </url><url>
+    <loc>https://example.org/chalkline/</loc>
+  </url><url>
+    <loc>https://example.org/court/</loc>
+  </url><url>
+    <loc>https://example.org/curbing/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/handicap/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/noparking/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/others/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/</loc>
+  </url><url>
+    <loc>https://example.org/stencil/visitors/</loc>
+  </url><url>
+    <loc>https://example.org/warehouse/</loc>
   </url><url>
     <loc>https://example.org/fashion-beauty/</loc>
   </url><url>
-    <loc>https://example.org/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://example.org/about/</loc>
   </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/animals/dogs/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/about/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
